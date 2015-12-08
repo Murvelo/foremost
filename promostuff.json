@@ -1,0 +1,47 @@
+{
+	"speakers" : [{
+		"title" : "New laser could spot signs of cancer in exhaled breath" ,
+		"when" : "September 30, 2015",
+		"writer" : "Edwin Cartlidge" ,
+		"bywho" : "PhysicsWorld" ,
+		"artwork" : ["images/news/panda_laser_vision_flickr.png"] ,
+		"artattr" : "Flickr" ,
+		"url" : "http://physicsworld.com/cws/article/news/2015/sep/30/new-laser-could-spot-signs-of-cancer-in-exhaled-breath",
+		"sourceurl" : "http://physicsworld.com/" ,
+		"sourcetitle" : "Physicsworld.com" ,
+		"tag" : "physics"
+	},{
+		"title" : "New tests detect all viruses that infect people, animals" ,
+		"when" : "September 29, 2015",
+		"writer" : "" ,
+		"bywho" : "Washington University in St. Louis" ,
+		"artwork" : ["images/news/blood_cells_pixabay.png"] ,
+		"artattr" : "wikicommon" ,
+		"url" : "http://news.wustl.edu/news/Pages/28833.aspx",
+		"sourceurl" : "http://www.wustl.edu/" ,
+		"sourcetitle" : "Washington University in St. Louis" ,
+		"tag" : "life"
+	},{
+		"title" : "Molecular scientists unexpectedly produce new type of glass" ,
+		"when" : "August 13, 2015",
+		"writer" : "Carla Reiter" ,
+		"bywho" : "University of Chicago" ,
+		"artwork" : ["images/news/glass_energy_pixabay.png"] ,
+		"artattr" : "Pixabay" ,
+		"url" : "http://news.uchicago.edu/article/2015/08/13/molecular-scientists-unexpectedly-produce-new-type-glass",
+		"sourceurl" : "http://www.uchicago.edu/" ,
+		"sourcetitle" : "University of Chicago" ,
+		"tag" : "tech"
+	},{
+		"title" : "Sugary drinks linked to high death tolls worldwide" ,
+		"when" : "June 29, 2015",
+		"writer" : "" ,
+		"bywho" : "Tufts University" ,
+		"artwork" : ["images/news/glass_of_juice.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://now.tufts.edu/news-releases/sugary-drinks-linked-high-death-tolls-worldwide",
+		"sourceurl" : "http://www.tufts.edu/" ,
+		"sourcetitle" : "Tufts University" ,
+		"tag" : "history"
+	}]
+}
