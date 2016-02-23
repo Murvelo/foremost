@@ -174,4 +174,22 @@ router.get('/sociology' , function(req, res) {
 	});
 });
 
+
+
+/* GET publications page */
+router.get('/publications' , function(req, res) {
+	var extendhouse = [ ] ;
+	var extend = [ ] ;
+	extend = extended.speakers;
+	extended.speakers.forEach(function(item) {
+		extendhouse = extendhouse.concat(item.artwork);
+	});
+	res.render('publications' , {
+		title: 'publications' ,
+		xtended : extendhouse,
+		xtend : extend
+	});
+});
+
+
 module.exports = router;

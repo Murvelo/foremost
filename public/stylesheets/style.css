@@ -149,6 +149,17 @@ footer {
 	display: -webkit-box;
 	flex-pack: justify;
 }
+.mxht {
+	max-height: 200px;
+	min-height: 200px;
+}
+.lottaboost {
+	padding-bottom: 50px;
+}
+.space {
+	font-size:15px;
+}
+
 
 
 
@@ -238,9 +249,9 @@ footer {
 	color: whitesmoke;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 500px) {
 	.space {
-		font-size: 10px;
+		font-size: 12px;
 	}
 	.bgcontainer {
 	    background-image: none;
