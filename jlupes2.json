@@ -1,5 +1,16 @@
 {
 	"speakers" : [{
+		"title" : "RNA modification discovery suggests new code for control of gene expression" ,
+		"when" : "February 16, 2016",
+		"writer" : "Robert Mitchum" ,
+		"bywho" : "UChicago" ,
+		"artwork" : ["images/news/Protein_ADAR_rnabinding_wikipedia.png"] ,
+		"artattr" : "Pixabay" ,
+		"url" : "http://news.uchicago.edu/article/2016/02/16/rna-modification-discovery-suggests-new-code-control-gene-expression",
+		"sourceurl" : "http://www.uchicago.edu/" ,
+		"sourcetitle" : "UChicago" ,
+		"tag" : "life"
+	},{
 		"title" : "Laser-wielding physicists seize control of atoms' behavior" ,
 		"when" : "October 06, 2015",
 		"writer" : "Steve Koppes" ,
