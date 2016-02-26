@@ -1,11 +1,22 @@
 {
 	"speakers" : [{
+		"title" : "A perilous future for animal life in the ocean" ,
+		"when" : "February 19, 2016",
+		"writer" : "Andrea Estrada" ,
+		"bywho" : "The UCSB Current" ,
+		"artwork" : ["images/news/animal-pixabay_960_720.png"] ,
+		"artattr" : "Pixabay" ,
+		"url" : "http://www.news.ucsb.edu/2016/016469/perilous-future-animal-life-ocean",
+		"sourceurl" : "http://www.ucsb.edu/" ,
+		"sourcetitle" : "UCSB" ,
+		"tag" : "social"
+	},{
 		"title" : "RNA modification discovery suggests new code for control of gene expression" ,
 		"when" : "February 16, 2016",
 		"writer" : "Robert Mitchum" ,
 		"bywho" : "UChicago" ,
 		"artwork" : ["images/news/Protein_ADAR_rnabinding_wikipedia.png"] ,
-		"artattr" : "Pixabay" ,
+		"artattr" : "Wikipedia" ,
 		"url" : "http://news.uchicago.edu/article/2016/02/16/rna-modification-discovery-suggests-new-code-control-gene-expression",
 		"sourceurl" : "http://www.uchicago.edu/" ,
 		"sourcetitle" : "UChicago" ,
