@@ -101,17 +101,18 @@
                 <% xtend.forEach(function(item) { %>
                 <% if (item.tag == "life") { %>
                 <div class="flex-container col-xs-6 col-sm-6 col-md-4 col-lg-4">
-                  <div id="main" class="blend nobord newsholder lefty thumbnail   col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                   <a class="" href="<%= item.url %>">
+                  <div id="main" class="blend nobord newsholder lefty bothpad thumbnail   col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                   <a href="<%= item.url %>">
                     <img style="max-height:150px" class="round" src="<%= item.artwork %>" alt="<%= item.name %>">
                     <p class="smallwords wordcolor">Image: <%= item.artattr %></p>
-                    <h4 class="wordcolor"><%= item.title %></h4>
-                    </a>
-                    <p class="smallwords wordcolor nopad"><%= item.writer %><br>
+                    <p class="wordcolor"><%= item.title %></p>
+                  </a>
+                    <p class="smallwords wordcolor nopad"><%= item.writer %>
+                  <br>
                   <a class="wordcolor" href="<%= item.sourceurl %>">
                     <%= item.bywho %>
-                    </a>
-                    <br><sup><%= item.when %></sup></p>
+                  </a>
+                  <br><sup><%= item.when %></sup></p>
                   </div>
                 </div>
                 <% } %>
