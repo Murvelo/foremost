@@ -351,16 +351,5 @@
 		"sourceurl" : "http://www.ucla.edu/" ,
 		"sourcetitle" : "UCLA" ,
 		"tag" : "social"
-	},{
-		"title" : "Sugary drinks linked to high death tolls worldwide" ,
-		"when" : "June 29, 2015",
-		"writer" : "" ,
-		"bywho" : "Tufts University" ,
-		"artwork" : ["images/news/glass_of_juice.png"] ,
-		"artattr" : "Wikipedia" ,
-		"url" : "http://now.tufts.edu/news-releases/sugary-drinks-linked-high-death-tolls-worldwide",
-		"sourceurl" : "http://www.tufts.edu/" ,
-		"sourcetitle" : "Tufts University" ,
-		"tag" : "history"
 	}]
 }
