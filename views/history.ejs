@@ -115,12 +115,13 @@
                       <img style="max-height:150px" class="round" src="<%= item.artwork %>" alt="<%= item.name %>">
                       <p class="smallwords wordcolor">Image: <%= item.artattr %></p>
                       <h4 class="wordcolor"><%= item.title %></h4>
-                      <p class="mediumwords wordcolor nopad"><%= item.writer %></p>
-                    </a>
-                    <a class="wordcolor" href="<%= item.sourceurl %>">
-                      <p class="mediumwords wordcolor nopad"><%= item.bywho %>
-                      </a>
-                      <br><sup><%= item.when %></sup></p>
+                  </a>
+                    <p class="smallwhensmall nopad"><%= item.writer %>
+                  <br>
+                  <a href="<%= item.sourceurl %>">
+                    <%= item.bywho %>
+                  </a>
+                  <br><sup><%= item.when %></sup></p>
                     </div>
                   </div>
                   <% } %>
