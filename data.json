@@ -1,6 +1,17 @@
 {
 	"speakers" : [{
-		"title" : "New research paper highlights visualization of high-energy electrons in fast-ignition targets" ,
+		"title" : "Predicting sea-level rise with ice-sheet modeling" ,
+		"when" : "February 11, 2016",
+		"writer" : "" ,
+		"bywho" : "Sandia National Laboratories" ,
+		"artwork" : ["images/news/Ice_Melting_in_Greenland_wikipedia.jpg"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "https://share.sandia.gov/news/resources/news_releases/ice_sheets/",
+		"sourceurl" : "http://www.sandia.gov/index.html" ,
+		"sourcetitle" : "Sandia National Laboratories" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Highlighting visualization of high-energy electrons in fast-ignition targets" ,
 		"when" : "January 28, 2016",
 		"writer" : "Breanna Bishop" ,
 		"bywho" : "Lawrence Livermore National Laboratory" ,
