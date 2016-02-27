@@ -1,6 +1,16 @@
 {
 	"speakers" : [{
-
+		"title" : "New research papre highlights visualization of high-energy electrons in fast-ignition targets" ,
+		"when" : "January 28, 2016",
+		"writer" : "Breanna Bishop" ,
+		"bywho" : "Lawrence Livermore National Laboratory" ,
+		"artwork" : ["images/news/CMS_Higgs-event_wikipedia.jpg"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "https://www.llnl.gov/news/new-research-paper-highlights-visualization-high-energy-electrons-fast-ignition-targets",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"sourcetitle" : "Lawrence Livermore National Laboratory" ,
+		"tag" : "physics"
+	},{
 		"title" : "A perilous future for animal life in the ocean" ,
 		"when" : "February 19, 2016",
 		"writer" : "Andrea Estrada" ,
