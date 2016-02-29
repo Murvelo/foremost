@@ -11,6 +11,17 @@
 		"sourcetitle" : "UCSB" ,
 		"tag" : "social"
 	},{
+		"title" : "Gene drive strategy to combat harmful virus spread" ,
+		"when" : "February 18, 2016",
+		"writer" : "Lindsay Taylor Key" ,
+		"bywho" : "Virginia Tech" ,
+		"artwork" : ["images/news/447px-Mosquito_gender_en_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "https://www.vtnews.vt.edu/articles/2016/02/021816-fralin-genedrivestrategy.html",
+		"sourceurl" : "http://www.vt.edu/" ,
+		"sourcetitle" : "Virginia Tech" ,
+		"tag" : "Life"
+	},{
 		"title" : "RNA modification discovery suggests new code for control of gene expression" ,
 		"when" : "February 16, 2016",
 		"writer" : "Robert Mitchum" ,
@@ -21,7 +32,7 @@
 		"sourceurl" : "http://www.uchicago.edu/" ,
 		"sourcetitle" : "UChicago" ,
 		"tag" : "life"
-	},{
+	},{ 
 		"title" : "Predicting sea-level rise with ice-sheet modeling" ,
 		"when" : "February 11, 2016",
 		"writer" : "" ,
