@@ -22,6 +22,17 @@
 		"sourcetitle" : "UCSB" ,
 		"tag" : "social"
 	},{
+		"title" : "Using Big-Data to chart cancer's hidden genetic weaknesses" ,
+		"when" : "February 24, 2016",
+		"writer" : "Nicholas Weiler" ,
+		"bywho" : "UCSF" ,
+		"artwork" : ["images/news/Social_Network_Analysis_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "https://www.ucsf.edu/news/2016/02/401811/computing-cure-researchers-use-big-data-chart-cancers-hidden-genetic-weaknesses",
+		"sourceurl" : "https://www.ucsf.edu/" ,
+		"sourcetitle" : "UCSF" ,
+		"tag" : "tech"
+	},{
 		"title" : "A perilous future for animal life in the ocean" ,
 		"when" : "February 19, 2016",
 		"writer" : "Andrea Estrada" ,
