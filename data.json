@@ -1,5 +1,16 @@
 {
 	"speakers" : [{
+		"title" : "NASA data used to track groundwater in Pakistan" ,
+		"when" : "February 29, 2016",
+		"writer" : "" ,
+		"bywho" : "Jet Propulsion Laboratories" ,
+		"artwork" : ["images/news/grace20160229pakistanwater-16-640x350.jpg"] ,
+		"artattr" : "JPL" ,
+		"url" : "http://www.jpl.nasa.gov/news/news.php?feature=5584",
+		"sourceurl" : "http://www.jpl.nasa.gov/" ,
+		"sourcetitle" : "UCSB" ,
+		"tag" : "social"
+	},{
 		"title" : "A perilous future for animal life in the ocean" ,
 		"when" : "February 19, 2016",
 		"writer" : "Andrea Estrada" ,
