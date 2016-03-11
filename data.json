@@ -1,5 +1,16 @@
 {
 	"speakers" : [{
+		"title" : "Addiction in the curriculum for new MDs" ,
+		"when" : "February 29, 2016",
+		"writer" : "Bruce Morgan" ,
+		"bywho" : "TuftsNow" ,
+		"artwork" : ["images/news/Hydrocodone.wikimedia.jpeg"] ,
+		"artattr" : "Wikimedia" ,
+		"url" : "http://now.tufts.edu/articles/addiction-curriculum-new-mds",
+		"sourceurl" : "http://www.tufts.edu/" ,
+		"sourcetitle" : "Tufts University" ,
+		"tag" : "social"
+	},{
 		"title" : "NASA data used to track groundwater in Pakistan" ,
 		"when" : "February 29, 2016",
 		"writer" : "" ,
