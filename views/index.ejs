@@ -9,10 +9,10 @@
   <meta name="author" content="">
   <title>subjecte | Science Technology Humanities</title>
   <link href='https://fonts.googleapis.com/css?family=Cantata+One|Coda|Trocchi|Ruthie' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="stylesheets/style.css">
-
+  <link rel="stylesheet" href="stylesheets/animate.css">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -25,14 +25,21 @@
       <div class="backcolor">
           <div class="">
         <div class="container">
-        <nav class="navbar navbar-none blend paycity navbar-fixed-top">
-          <div class="container">
-            <a class="navbar-brand topicon" href="http://subjecte.com/" title="subjectE | Science, Technology and Humanities"><img class="topicon" src="images/news/seicon.png"></a>
-            <ul class="nav nav-pills pull-right">
-              <li role="presentation" class="dropdown largewords">
-                <a class="drowdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria expanded="false">Subjects<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/astronomy">Astronomy</a></li>
+
+    <nav class="navbar navbar-default navbar-fixed-top lowpaycity">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand topicon" href="http://subjecte.com/" title="subjectE | Science, Technology and Humanities"><img class="topicon" src="images/news/seicon.png"></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav nerve navbar-right">
+            <li><a href="/astronomy">Astronomy</a></li>
                   <li><a href="/chemistry">Chemistry</a></li>
                   <li><a href="/history">History</a></li>
                   <li><a href="/life">Life</a></li>
@@ -42,13 +49,15 @@
                   <li><a href="/sociology">Sociology</a></li>
                   <li role="separator" class="divider"></li>
                   <li><a href="publications">Publications</a></li>
-                  <li><a href="publications">Multi Discipline</a></li>
+                  <li><a href="publications">Multi</a></li>
                   <li role="separator" class="divider"></li>
                   <li class="active faded"><a href="http://subjecte.com/">Home</a></li>
-                </ul>
-            </ul>
-          </div>
-        </nav>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+        
 
         <div class="container">
           <h1 class="topodahill cod">subject<span class="topodahill larhe">E</span></h1>
@@ -192,7 +201,7 @@
   <footer>  
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
      <div class="btn-group middle btn-group-justified">
-      <h2>Categories</h2>
+      <h2 class="">Categories</h2>
 
       <p class="justified footsize">
        <a type="button" class="btn btn-sm btn btn-sm-sm footsize" href="/astronomy" role="button">Astronomy</a>
@@ -217,7 +226,8 @@
 
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="javascripts/bootstrap.min.js"></script>
+<script src="javascripts/scripts.js"></script>
 
 </body>
 
