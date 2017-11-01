@@ -1,6 +1,5 @@
 
 body {
-  padding: 10px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 a {
@@ -14,6 +13,13 @@ h2, h3, h4, h5, h6 {
 }
 footer {
 	background-color: darkgrey;
+}
+.nav-item {
+	list-style: none;
+	font-size: 1.2rem;
+}
+.uptop {
+	padding-top:55px;
 }
 .footsize {
 	color: black;
@@ -52,7 +58,7 @@ footer {
 }
 
 .bodypad {
-	padding: 50px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
 }
 .nopad {
 	padding: 0px 0px 0px 0px;
@@ -225,7 +231,7 @@ footer {
 .topicon {
 	max-height:35px;
 	max-width:35px;
-	padding-top: 4px;
+	padding-top: 0px;
 }
 
 .bgcontainer {
@@ -257,6 +263,9 @@ footer {
 @media (max-width:1100px) {
 	.nerve {
 	font-size:15px;
+	}
+	.attnerve {
+		font-size:8px
 	}
 }
 
