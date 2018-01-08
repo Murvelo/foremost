@@ -1,5 +1,565 @@
 {
 	"speakers" : [{
+		"title" : "NASA sees first direct proof of ozone hole recovery",
+		"when" : "January 4, 2018",
+		"writer" : "Samson Reiny" ,
+		"bywho" : "NASA | JPL" ,
+		"artwork" : ["images/news/earth20180104b.jpg"] ,
+		"artattr" : "NASA" ,
+		"url" : "https://www.jpl.nasa.gov/news/news.php?feature=7033",
+		"sourceurl" : "https://www.jpl.nasa.gov/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Lab unlocks secrets of nanoscale 3D printing",
+		"when" : "January 3, 2018",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : ["images/news/jacob-long.andrew-connell.llnl.png"] ,
+		"artattr" : "Jacob Long | Andrew Connell | LLNL" ,
+		"url" : "https://www.llnl.gov/news/lab-unlocks-secrets-nanoscale-3d-printing",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Brain's immune system may be key to better treatments for psychiatric disorders",
+		"when" : "January 3, 2018",
+		"writer" : "Dana Smith" ,
+		"bywho" : "UCSF" ,
+		"artwork" : ["images/news/astrocytes.Zuzana Krejciova.jpg"] ,
+		"artattr" : "Zuzana Krejciova" ,
+		"url" : "https://www.ucsf.edu/news/2017/12/409521/brains-immune-system-may-be-key-better-treatments-psychiatric-disorders",
+		"sourceurl" : "https://www.ucsf.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Tunable, green detergents could be 'made to order' for industry",
+		"when" : "January 2, 2018",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : ["images/news/rhodotorula875.jpg"] ,
+		"artattr" : "LLNL" ,
+		"url" : "https://www.llnl.gov/news/newly-developed-tunable-green-detergents-could-be-made-order-industry",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Neuroscientists shed light on causes of post partum depressoin using new research model",
+		"when" : "December 26, 2017",
+		"writer" : "" ,
+		"bywho" : "Tufts Now" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "http://now.tufts.edu/news-releases/neuroscientists-shed-light-causes-postpartum-depression-using-new-research-model",
+		"sourceurl" : "http://now.tufts.edu/" ,
+		"tag" : "social"
+	},{
+		"title" : "Arecibo radar returns with asteroid Phaethon images",
+		"when" : "December 22, 2017",
+		"writer" : "" ,
+		"bywho" : "NASA | JPL" ,
+		"artwork" : ["images/news/PIA22185-16.Arecibo Observatory-NASA-NSF.jpg"] ,
+		"artattr" : "Arecibo Observatory | NASA | NSF" ,
+		"url" : "https://www.jpl.nasa.gov/news/news.php?feature=7030",
+		"sourceurl" : "https://www.jpl.nasa.gov/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "NASA chooses new Frontiers Mission finalists",
+		"when" : "December 20, 2017",
+		"writer" : "" ,
+		"bywho" : "NASA | JPL" ,
+		"artwork" : ["images/news/solarsystem20171220-16.jpg"] ,
+		"artattr" : "NASA | JPL | Caltech" ,
+		"url" : "https://www.jpl.nasa.gov/news/news.php?feature=7028",
+		"sourceurl" : "https://www.jpl.nasa.gov/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Machine Evolution",
+		"when" : "December 19,2017",
+		"writer" : "Amanda Solliday" ,
+		"bywho" : "Symmetry Magazine" ,
+		"artwork" : ["images/news/Header_MachineEvolution_0.jpg"] ,
+		"artattr" : "SLAC" ,
+		"url" : "https://www.symmetrymagazine.org/article/machine-evolution",
+		"sourceurl" : "https://www.symmetrymagazine.org/" ,
+		"tag" : "physics"
+	},{
+		"title" : "Simulated universes and dark matter mock-ups",
+		"when" : "December 14, 2017",
+		"writer" : "Glenn Roberts Jr" ,
+		"bywho" : "Berkeley Lab" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "http://newscenter.lbl.gov/2017/12/14/mock-galaxies-real-universe/",
+		"sourceurl" : "http://www.lbl.gov/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Lawrence Livermore-developed perawatt laser system installed at ELI Beamlines",
+		"when" : "December 13, 2017",
+		"writer" : "Breanna Bishop" ,
+		"bywho" : "LLNL" ,
+		"artwork" : ["images/news/hapls_875x500px.jpg"] ,
+		"artattr" : "LLNL" ,
+		"url" : "https://www.llnl.gov/news/lawrence-livermore-developed-petawatt-laser-system-installed-eli-beamlines",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "physics"
+	},{
+		"title" : "Most popular stories of 2017 | UCSF",
+		"when" : "December 13, 2017",
+		"writer" : "" ,
+		"bywho" : "UCSF" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.ucsf.edu/news/2017/12/409241/most-popular-science-stories-2017",
+		"sourceurl" : "https://www.ucsf.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "LLNL-developed microelectrodes enable automated sorting of neural signals",
+		"when" : "December 12, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : ["images/news/neuro875x500px.jpg"] ,
+		"artattr" : "LLNL" ,
+		"url" : "https://www.llnl.gov/news/llnl-developed-microelectrodes-enable-automated-sorting-neural-signals",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "life"
+	},{
+		"title" : "New process could be key to understanding complex rearrangements in genome",
+		"when" : "December 5, 2017",
+		"writer" : "" ,
+		"bywho" : "Tufts Now" ,
+		"artwork" : ["images/news/Mirkin Lab CGR Tufts Now.jpg"] ,
+		"artattr" : "Mirkin Lab at Tufts University" ,
+		"url" : "http://now.tufts.edu/news-releases/new-process-could-be-key-understanding-complex-rearrangements-genome",
+		"sourceurl" : "http://now.tufts.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Arctic sea ice loss could dry out California",
+		"when" : "December 5, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : ["images/news/artic875x500px.jpg"] ,
+		"artattr" : "LLNL" ,
+		"url" : "https://www.llnl.gov/news/arctic-sea-ice-loss-could-dry-out-california",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Watching a quantum material lose its stripes",
+		"when" : "November 29, 2017",
+		"writer" : "Sarah Yang" ,
+		"bywho" : "Berkeley Labs" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "http://newscenter.lbl.gov/2017/11/29/watching-quantum-material-lose-stripes/",
+		"sourceurl" : "http://www.lbl.gov/" ,
+		"tag" : "physics"
+	},{
+		"title" : "lHC data: how it's made",
+		"when" : "November 28, 2017",
+		"writer" : "Sarah Charley" ,
+		"bywho" : "Symmetry Magazine" ,
+		"artwork" : ["images/news/Header_HowDataMade_0.silvia-blondi_matteo-franchini.cern.jpg"] ,
+		"artattr" : "Silvia Blondi | Matteo Franchini | CERN" ,
+		"url" : "https://www.symmetrymagazine.org/article/lhc-data-how-its-made",
+		"sourceurl" : "https://www.symmetrymagazine.org/" ,
+		"tag" : "physics"
+	},{
+		"title" : "LLNL project aims to transform electrical grid resiliency with distributed energy resources",
+		"when" : "September 28, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/llnl-project-aims-transform-electrical-grid-resiliency-distributed-energy-resources",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Atomic-scale simulations go the distance to resolve the 'jiggle, wiggle' of metal strength",
+		"when" : "September 27, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/atomic-scale-simulations-go-distance-resolve-jiggle-wiggle-metal-strength",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "LLNL researchers to study soil microbiome",
+		"when" : "September 26, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/llnl-researchers-study-soil-microbiome",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "A solid pathway toward hydrogen storage",
+		"when" : "September 25, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/solid-pathway-toward-hydrogen-storage",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "chemistry"
+	},{
+		"title" : "Brain guides body much sooner than previously believed",
+		"when" : "September 25, 2017",
+		"writer" : "Patrick collins" ,
+		"bywho" : "Tufts" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "http://now.tufts.edu/news-releases/brain-guides-body-much-sooner-previously-believed",
+		"sourceurl" : "http://now.tufts.edu/news-releases/brain-guides-body-much-sooner-previously-believed" ,
+		"tag" : "life"
+	},{
+		"title" : "Observatory detects extragalactic cosmic rays hitting the earth" ,
+		"when" : "September 22, 2017",
+		"writer" : "Louise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/22/observatory-detects-extragalactic-cosmic-rays-hitting-earth",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "LLNL gears up for next generation of computer-aided design and engineering",
+		"when" : "September 22, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/llnl-gears-next-generation-computer-aided-design-and-engineering",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Exhibit illustrates magical powers of Book or the Dead in ancient Egypt" ,
+		"when" : "September 22, 2017",
+		"writer" : "Louise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/22/exhibit-illustrates-magical-powers-book-dead-ancient-egypt",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "history"
+	},{
+		"title" : "Study suggests tectonic plates began moving half a billion years earlier than thought",
+		"when" : "September 21, 2017",
+		"writer" : "Louise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/21/study-suggests-tectonic-plates-began-moving-half-billion-years-earlier-thought",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Scientists make atoms-thick Post-it notes for solar cells and circuits",
+		"when" : "September 20, 2017",
+		"writer" : "Louise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/20/scientists-make-atoms-thick-post-it-notes-solar-cells-and-circuits",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Lab leads new effort in materials development",
+		"when" : "September 19, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/lab-leads-new-effort-materials-development",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Using synthetic biology for chlamydia vaccines",
+		"when" : "September 12, 2017",
+		"writer" : "Maren Hunsberger" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/using-synthetic-biology-chlamydia-vaccines",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "life"
+	},{
+		"title" : "Scientists create alternate evolutionary histories in test tube",
+		"when" : "September 13, 2017",
+		"writer" : "Matt wood" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/13/scientists-create-alternate-evolutionary-histories-test-tube",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Lab researchers achieve '4D printed material",
+		"when" : "September 13, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/lab-researchers-achieve-4d-printed-material",
+		"sourceurl" : "https://www.llnl.gov/news/lab-researchers-achieve-4d-printed-material" ,
+		"tag" : "tech"
+	},{
+		"title" : "Air pollution cuts three years off lifespans in northern China",
+		"when" : "September 11, 2017",
+		"writer" : "Vicki Ekstrom High" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/11/air-pollution-cuts-three-years-lifespans-northern-china",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "social"
+	},{
+		"title" : "Computer Programming language can impact science and thought",
+		"when" : "September 6, 2017",
+		"writer" : "Rob Mitchum" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/06/computer-programming-languages-can-impact-science-and-thought",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Living in poverty puts demands on attention that impair decision-making",
+		"when" : "September 5, 2017",
+		"writer" : "Sandra M. Jones" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/09/05/living-poverty-puts-demands-attention-impair-decision-making",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "social"
+	},{
+		"title" : "Fast heat flows in warm dense aluminum",
+		"when" : "August 31, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/fast-heat-flows-warm-dense-aluminum",
+		"sourceurl" : "https://www.llnl.gov/news/fast-heat-flows-warm-dense-aluminum" ,
+		"tag" : "physics"
+	},{
+		"title" : "Reproducing reflectivity in solar cells and optics with micro and nanoscale structures",
+		"when" : "August 30, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/reducing-reflectivity-solar-cells-and-optics-micro-and-nanoscale-structures",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "tech"
+	},{
+		"title" : "Tiny nanopackages built out of DNA help scientists peek at how neurons work",
+		"when" : "Augugst 28, 2017",
+		"writer" : "Louise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/28/tiny-nanopackages-built-out-dna-help-scientists-peek-how-neurons-work",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Perfecting the spider's art to support NIF targets",
+		"when" : "August 28, 2017",
+		"writer" : "Breanna Bishop" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/perfecting-spider%E2%80%99s-art-support-nif-targets",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "chemistry"
+	},{
+		"title" : "Carbon nanotubes filter seawater",
+		"when" : "August 24, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/carbon-nanotubes-worth-their-salt",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "social"
+	},{
+		"title" : "Using real-world data, Lab scientists answer key questions about an atmospheric release from nuclear reactor",
+		"when" : "August 23, 2017",
+		"writer" : "Jeremy Thomas" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/using-real-world-data-lab-scientists-answer-key-questions-about-atmospheric-release",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "physics"
+	},{
+		"title" : "Scientists create 'diamond rain' that forms in the interior of icy giant planets like Neptune",
+		"when" : "August 22, 2017",
+		"writer" : "Breanna Bishop" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/scientists-create-%E2%80%98diamond-rain%E2%80%99-forms-interior-icy-giant-planets-neptune",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Study examines feeding frenzy behavior in certain worms",
+		"when" : "August 16, 2017",
+		"writer" : "Loise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/16/study-examines-feeding-frenzy-behavior-certain-worms",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Communicating in a foreign language takes emotion out of decision-making",
+		"when" : "August 15, 2017",
+		"writer" : "Carla Reiter" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/15/communicating-foreign-language-takes-emotion-out-decision-making",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "social"
+	},{
+		"title" : "Shock front probed by protons",
+		"when" : "August 10, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/shock-front-probed-protons",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "physics"
+	},{
+		"title" : "First winged mammals from the jurassic period discovered",
+		"when" : "August 9, 2017",
+		"writer" : "Matt Wood" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/09/first-winged-mammals-jurassic-period-discovered",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "history"
+	},{
+		"title" : "Exposure to antibacterials from mother to child may cause adverse effects in development",
+		"when" : "August 9, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/exposure-antibacterials-mother-child-may-cause-adverse-effects-development",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "life"
+	},{
+		"title" : "Gene therapy via skin could treat diseases such as obesity",
+		"when" : "August 7, 2017",
+		"writer" : "John Easton" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/07/gene-therapy-skin-could-treat-diseases-such-obesity",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Scientists probe the conditions of stellar interiors to measure nuclear reactions",
+		"when" : "August 7, 2017",
+		"writer" : "Breanna Bishop" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/scientists-probe-conditions-stellar-interiors-measure-nuclear-reactions",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Ark Energy Survey reveals most precise measure of the universe's structure",
+		"when" : "August 3, 2017",
+		"writer" : "" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/03/dark-energy-survey-reveals-most-precise-measure-universes-structure",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Regional support for rebel groups can increase violence, study shows",
+		"when" : "August 1, 2017",
+		"writer" : "Robert Mordfin" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/08/01/regional-support-rebel-groups-can-increase-violence-study-shows",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "social"
+	},{
+		"title" : "LLNL scientists extract hydrogen from water as potential fuel source",
+		"when" : "July 31, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/it%E2%80%99s-something-water-llnl-scientists-extract-hydrogen-potential-fuel-source",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "chemistry"
+	},{
+		"title" : "New method promises easier nanoscale manufacturing",
+		"when" : "July 27, 2017",
+		"writer" : "Loise Lerner" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/07/27/new-method-promises-easier-nanoscale-manufacturing",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "chemistry"
+	},{
+		"title" : "Conductivity key to mapping water inside Earth",
+		"when" : "July 25, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/conductivity-key-mapping-water-inside-earth",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Bird songs provide insight into how developing brain forms memories",
+		"when" : "July 24, 2017",
+		"writer" : "Thomas Gaulkin" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/07/24/bird-songs-provide-insight-how-developing-brain-forms-memories",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
+		"title" : "Construction begins on international science experiment to understand neutrinos",
+		"when" : "July 21, 2017",
+		"writer" : "" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/07/21/construction-begins-international-science-experiment-understand-neutrinos",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Lab Scientists explore electronic properties of liquid electrolytes for energy technologies",
+		"when" : "July 13, 2017",
+		"writer" : "Anne M. Stark" ,
+		"bywho" : "LLNL" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://www.llnl.gov/news/lab-scientists-explore-electronic-properties-liquid-electrolytes-energy-technologies",
+		"sourceurl" : "https://www.llnl.gov/" ,
+		"tag" : "physics"
+	},{
+		"title" : "Researchers offer new explanation for why protein fibers form",
+		"when" : "July 13, 2017",
+		"writer" : "Carla Reiter" ,
+		"bywho" : "UChicago" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "https://news.uchicago.edu/article/2017/07/13/researchers-offer-new-explanation-why-protein-fibers-form",
+		"sourceurl" : "https://www.uchicago.edu/" ,
+		"tag" : "life"
+	},{
 		"title" : "Addiction in the curriculum for new MDs" ,
 		"when" : "February 29, 2016",
 		"writer" : "Bruce Morgan" ,
@@ -10,7 +570,7 @@
 		"sourceurl" : "http://www.tufts.edu/" ,
 		"sourcetitle" : "Tufts University" ,
 		"tag" : "social"
-	},{
+	},{                               
 		"title" : "NASA data used to track groundwater in Pakistan" ,
 		"when" : "February 29, 2016",
 		"writer" : "" ,
@@ -65,7 +625,7 @@
 		"sourceurl" : "http://www.uchicago.edu/" ,
 		"sourcetitle" : "UChicago" ,
 		"tag" : "life"
-	},{
+	},{ 
 		"title" : "Predicting sea-level rise with ice-sheet modeling" ,
 		"when" : "February 11, 2016",
 		"writer" : "" ,
@@ -439,5 +999,16 @@
 		"sourceurl" : "http://www.ucla.edu/" ,
 		"sourcetitle" : "UCLA" ,
 		"tag" : "social"
+	},{
+		"title" : "Sugary drinks linked to high death tolls worldwide" ,
+		"when" : "June 29, 2015",
+		"writer" : "" ,
+		"bywho" : "Tufts University" ,
+		"artwork" : ["images/news/glass_of_juice.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://now.tufts.edu/news-releases/sugary-drinks-linked-high-death-tolls-worldwide",
+		"sourceurl" : "http://www.tufts.edu/" ,
+		"sourcetitle" : "Tufts University" ,
+		"tag" : "history"
 	}]
 }
