@@ -275,7 +275,7 @@ footer {
 
 @media (max-width: 500px) {
 	.space {
-		font-size: 20px;
+		font-size: 15px;
 	}
 	.bgcontainer {
 	    background-image: none;
@@ -295,7 +295,7 @@ footer {
 		margin-top: 0px;
 	}
 	.smallwhensmall{
-		font-size:12px;
+		font-size:15px;
 	}
 }
 .titleimg {
