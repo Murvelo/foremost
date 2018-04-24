@@ -14,9 +14,16 @@ h2, h3, h4, h5, h6 {
 footer {
 	background-color: darkgrey;
 }
+.bg1 {
+	background-image:url(images/brainright.png);
+	background-position:center;
+	background-origin:;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
 .rite {
 	text-align:right;
-	te
 }
 .nav-item {
 	list-style: none;
